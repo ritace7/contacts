@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ritace7/contacts/static/css/main.23203970.css",
-    "main.js": "/ritace7/contacts/static/js/main.825aa5ae.js",
-    "index.html": "/ritace7/contacts/index.html",
-    "main.23203970.css.map": "/ritace7/contacts/static/css/main.23203970.css.map",
-    "main.825aa5ae.js.map": "/ritace7/contacts/static/js/main.825aa5ae.js.map"
+    "main.css": "/contacts/static/css/main.23203970.css",
+    "main.js": "/contacts/static/js/main.52a1d69c.js",
+    "index.html": "/contacts/index.html",
+    "main.23203970.css.map": "/contacts/static/css/main.23203970.css.map",
+    "main.52a1d69c.js.map": "/contacts/static/js/main.52a1d69c.js.map"
   },
   "entrypoints": [
     "static/css/main.23203970.css",
-    "static/js/main.825aa5ae.js"
+    "static/js/main.52a1d69c.js"
   ]
 }
