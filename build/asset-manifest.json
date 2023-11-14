@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ritace7/contact-list/static/css/main.23203970.css",
+    "main.js": "/ritace7/contact-list/static/js/main.825aa5ae.js",
+    "index.html": "/ritace7/contact-list/index.html",
+    "main.23203970.css.map": "/ritace7/contact-list/static/css/main.23203970.css.map",
+    "main.825aa5ae.js.map": "/ritace7/contact-list/static/js/main.825aa5ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23203970.css",
+    "static/js/main.825aa5ae.js"
+  ]
+}

@@ -1,0 +1,19 @@
+@import 'variables.css';
+
+.App {
+  width: 50%;
+  height: 95vh;
+  margin: 2.5vh auto;
+  text-align: center;
+  overflow:scroll;
+  border-radius: 5%;
+  background-color: var(--color-app);
+}
+
+.App h1{
+  background-color: var(--color-header) !important;
+}
+
+.App::-webkit-scrollbar {
+  display: none;
+}
